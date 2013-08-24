@@ -45,7 +45,7 @@ class Email extends CI_Controller {
                     'smtp_host' => 'ssl://smtp.googlemail.com',
                     'smtp_port' => 465,
                     'smtp_user' => 'goryo.webdev@gmail.com',
-                    'smtp_pass' => 'Pass@2011',
+                    'smtp_pass' => '',
                     'mailtype' => 'html',
                     'charset' => 'iso-8859-1'
                     );
